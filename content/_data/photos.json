@@ -1,0 +1,8 @@
+[
+  {
+    "src": "/assets/images/example-photo.jpg",
+    "alt": "Example photo",
+    "date": "2024-02-25",
+    "description": "This is an example photo to demonstrate the file-based content management system."
+  }
+]
