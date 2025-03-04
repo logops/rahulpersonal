@@ -1,2 +1,0 @@
-# rahulpersonal
-my personal website
